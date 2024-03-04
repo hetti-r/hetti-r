@@ -1,5 +1,5 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hetti-r/hetti-r/blob/main/skyGITtausta.png?raw=true">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hetti-r/hetti-r/blob/main/kuu.png?raw=true">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hetti-r/hetti-r/blob/main/2tausta.png?raw=true">
  <img alt="Pixel sky" src="YOUR-DEFAULT-IMAGE">
 </picture>
