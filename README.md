@@ -5,6 +5,6 @@
 </picture>
 
 ### Greetings 🍃🌷
-🌱 Currently learning: Javascript, PHP, HTML&CSS, C# <br>
+🌱 Learning: Javascript, PHP, HTML&CSS, C# <br>
 🌻 Special skills: video editing & FX, photoshop, level design, storyboarding, 2D rigging, narrative writing <br>
-🍄 How to reach me: ...<br>
+🍄 Find me: [LinkedIn](https://www.linkedin.com/in/hetti-r%C3%B6nnemaa-30986016b/), [ArtStation](https://www.artstation.com/hettironnemaa)
