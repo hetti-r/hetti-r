@@ -5,8 +5,8 @@
 </picture>
 
 <h1 align="center">Greetings 🍃🌷</h1>
-<p align="center">🌱 Learning: Javascript, PHP, HTML&CSS, C# <br>
-🌻 Special skills: video editing & FX, photoshop, level design, storyboarding, 2D rigging, narrative writing <br>
+<p align="center">🌱 Learning: Javascript, PHP, HTML&CSS, C#, Python <br>
+🌻 Special skills: video editing & FX, photoshop, level design, storyboarding, 2D rigging <br>
 🍄 Find me: <a href="https://www.linkedin.com/in/hetti-r%C3%B6nnemaa-30986016b/">LinkedIn</a>, <a href="https://www.artstation.com/hettironnemaa">ArtStation</a>
 </p>
 <picture>
