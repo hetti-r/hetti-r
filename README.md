@@ -1,6 +1,6 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hetti-r/hetti-r/blob/main/kuu.png?raw=true">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/hetti-r/hetti-r/blob/main/2tausta.png?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/hetti-r/hetti-r/blob/main/lightskyGITtausta.png?raw=true">
  <img alt="Pixel sky" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
@@ -11,6 +11,6 @@
 </p>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hetti-r/hetti-r/blob/main/kukatGIT.png?raw=true">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/hetti-r/hetti-r/blob/main/2tausta.png?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/hetti-r/hetti-r/blob/main/lighttGITtausta.png?raw=true">
  <img alt="Meadow pixel flowers" src="YOUR-DEFAULT-IMAGE">
 </picture>
