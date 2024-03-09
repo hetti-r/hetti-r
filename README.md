@@ -1,6 +1,6 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hetti-r/hetti-r/blob/main/kuu.png?raw=true">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/hetti-r/hetti-r/blob/main/lightskyGITtausta.png?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/hetti-r/hetti-r/blob/main/lightskyGITtausta2.png?raw=true">
  <img alt="Pixel sky" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
