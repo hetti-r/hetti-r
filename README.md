@@ -9,6 +9,10 @@
 🌻 Special skills: video editing & FX, photoshop, level design, storyboarding, 2D rigging <br>
 🍄 Find me: <a href="https://www.linkedin.com/in/hetti-r%C3%B6nnemaa-30986016b/">LinkedIn</a>, <a href="https://www.artstation.com/hettironnemaa">ArtStation</a>
 </p>
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetti-r" />
+</div>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hetti-r/hetti-r/blob/main/kukatGIT.png?raw=true">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hetti-r/hetti-r/blob/main/lighttGITtausta.png?raw=true">
