@@ -11,7 +11,18 @@
 </p>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetti-r" />
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hetti-r&show_icons=true&theme=dark&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hetti-r&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetti-r&show_icons=true" />
+</picture>
+
 </div>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hetti-r/hetti-r/blob/main/kukatGIT.png?raw=true">
