@@ -10,20 +10,7 @@
 🍄 Find me: <a href="https://www.linkedin.com/in/hetti-r%C3%B6nnemaa-30986016b/">LinkedIn</a>, <a href="https://www.artstation.com/hettironnemaa">ArtStation</a>
 </p>
 <br>
-<div align="center">
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hetti-r&show_icons=true&theme=dark&layout=compact"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hetti-r&show_icons=true&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetti-r&show_icons=true&layout=compact" />
-</picture>
 
-</div>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hetti-r/hetti-r/blob/main/kukatGIT.png?raw=true">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hetti-r/hetti-r/blob/main/lighttGITtausta.png?raw=true">
